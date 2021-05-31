@@ -19,17 +19,17 @@ Thank you for visiting my profile ツ
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/analuciabolico?style=social" />
 
 ----
-    - 🔭 I'm Currently Working on [Ifood](https://www.github.com/ifood)
+ - 🔭 I'm Currently Working on [Ifood](https://www.github.com/ifood)
 
-    - 👯 I'm looking to collaborate on a lib project (coming soon . . .) with [Ana Kettl](https://github.com/anakettl)
+ - 👯 I'm looking to collaborate on a lib project (coming soon . . .) with [Ana Kettl](https://github.com/anakettl)
 
-    - 📚 I'm Studying TypeScript, Node.js, Java, React, React Native, Kafka, AWS, DevOps and Kotlin ...
+ - 📚 I'm Studying TypeScript, Node.js, Java, React, React Native, Kafka, AWS, DevOps and Kotlin ...
 
-    - 📫 Let's get social on Discord! My user id: `analuciabolico#7783`
+ - 📫 Let's get social on Discord! My user id: `analuciabolico#7783`
 
-    - 🖇️ Also visit my [Linkedin](https://www.linkedin.com/in/analuciabolico/) profile
+ - 🖇️ Also visit my [Linkedin](https://www.linkedin.com/in/analuciabolico/) profile
 
-    - ⚡ Fun fact! I love coffee  ☕
+ - ⚡ Fun fact! I love coffee  ☕
 ----
 
 <h3>Languages</h3>
