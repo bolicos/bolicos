@@ -82,3 +82,8 @@ Thank you for visiting my profile ツ
   <img alt="Windows 10" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
   
 </div>
+
+<!-- Metrics link
+Makdown -  ![Metrics](https://github.com/Gabb-c/Gabb-c/blob/main/github-metrics.svg)
+HTML - <img alt="Metrics" src="https://github.com/Gabb-c/Gabb-c/blob/main/github-metrics.svg" />
+-->
