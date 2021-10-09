@@ -84,6 +84,6 @@ Thank you for visiting my profile ツ
 </div>
 
 <!-- Metrics link
-Makdown -  ![Metrics](https://github.com/Gabb-c/analuciabolico/blob/main/github-metrics.svg)
+Makdown -  ![Metrics](https://github.com/analuciabolico/analuciabolico/blob/main/github-metrics.svg)
 HTML - <img alt="Metrics" src="https://github.com/analuciabolico/analuciabolico/blob/main/github-metrics.svg" />
 -->
