@@ -7,7 +7,7 @@
 
 <img width="50%" align="right" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=analuciabolico&count_private=true&show_icons=true&theme=tokyonight" />
 
-<img width="50%" align="right" alt="Langagues" src="https://github-readme-stats.vercel.app/api/top-langs/?username=analuciabolico&layout=compact&count_private=true&theme=tokyonight" />
+<img width="50%" align="right" alt="Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=analuciabolico&layout=compact&count_private=true&theme=tokyonight" />
 
 <p align="left" >
     Hi there 👋! My name is Ana Lucia, but here you can call me Lucia.
