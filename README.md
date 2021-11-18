@@ -19,9 +19,9 @@ Thank you for visiting my profile ツ
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/analuciabolico?style=social" />
 
 ----
- - 🔭 I'm Currently Working on [Ifood](https://www.github.com/ifood)
+ - 🔭 I'm Currently Working on [Sicredi](https://www.sicredi.com.br)
 
- - 👯 I'm looking to collaborate on a lib project (coming soon . . .) with [Ana Kettl](https://github.com/anakettl)
+ - 👯 I'm looking to collaborate on a lib project (coming soon . . .)
 
  - 📚 I'm Studying TypeScript, Node.js, Java, React, React Native, Kafka, AWS, DevOps and Kotlin ...
 
@@ -29,7 +29,7 @@ Thank you for visiting my profile ツ
 
  - 🖇️ Also visit my [Linkedin](https://www.linkedin.com/in/analuciabolico/) profile
 
- - ⚡ Fun fact! I love coffee  ☕
+ - ⚡ Fun fact! I love cold coffee  ☕
 ----
 
 <h3>Languages</h3>
