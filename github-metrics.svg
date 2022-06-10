@@ -220,7 +220,7 @@
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="223.12610321517764" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="223.12610321517764" y="0" width="195.04860684352977" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="223.12610321517764" y="0" width="195.04860684352977" height="8" fill="#3178c6"/>
                     <rect mask="url(#languages-bar)" x="418.17471005870743" y="0" width="13.216256325100352" height="8" fill="#c6538c"/>
                     <rect mask="url(#languages-bar)" x="431.3909663838078" y="0" width="9.766902890914082" height="8" fill="#563d7c"/>
                     <rect mask="url(#languages-bar)" x="441.15786927472186" y="0" width="8.290327009322576" height="8" fill="#dad8d8"/>
@@ -237,7 +237,7 @@
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#2b7489" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                            <path fill="#3178c6" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         TypeScript
                     </div>
@@ -1333,7 +1333,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 10 Jun 2022, 07:08:22 (timezone America/Sao_Paulo) with lowlighter/metrics@3.24.0</span>
+                <span>Last updated 10 Jun 2022, 08:07:21 (timezone America/Sao_Paulo) with lowlighter/metrics@3.24.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
