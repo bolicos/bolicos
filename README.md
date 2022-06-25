@@ -7,7 +7,7 @@
 
 <img width="50%" align="right" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=analuciabolico&count_private=true&show_icons=true&theme=tokyonight" />
 
-<img width="50%" align="right" alt="Langagues" src="https://github-readme-stats.vercel.app/api/top-langs/?username=analuciabolico&layout=compact&count_private=true&theme=tokyonight" />
+<img width="50%" align="right" alt="Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=analuciabolico&layout=compact&count_private=true&theme=tokyonight" />
 
 <p align="left" >
     Hi there 👋! My name is Ana Lucia, but here you can call me Lucia.
@@ -19,9 +19,9 @@ Thank you for visiting my profile ツ
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/analuciabolico?style=social" />
 
 ----
- - 🔭 I'm Currently Working on [Ifood](https://www.github.com/ifood)
+ - 🔭 I'm Currently Working on [Sicredi](https://www.sicredi.com.br)
 
- - 👯 I'm looking to collaborate on a lib project (coming soon . . .) with [Ana Kettl](https://github.com/anakettl)
+ - 👯 I'm looking to collaborate on a lib project (coming soon . . .)
 
  - 📚 I'm Studying TypeScript, Node.js, Java, React, React Native, Kafka, AWS, DevOps and Kotlin ...
 
@@ -29,7 +29,7 @@ Thank you for visiting my profile ツ
 
  - 🖇️ Also visit my [Linkedin](https://www.linkedin.com/in/analuciabolico/) profile
 
- - ⚡ Fun fact! I love coffee  ☕
+ - ⚡ Fun fact! I love cold coffee  ☕
 ----
 
 <h3>Languages</h3>
@@ -82,3 +82,8 @@ Thank you for visiting my profile ツ
   <img alt="Windows 10" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
   
 </div>
+
+<!-- Metrics link
+Makdown -  ![Metrics](https://github.com/analuciabolico/analuciabolico/blob/main/github-metrics.svg)
+HTML - <img alt="Metrics" src="https://github.com/analuciabolico/analuciabolico/blob/main/github-metrics.svg" />
+-->
