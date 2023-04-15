@@ -19,6 +19,7 @@ Thank you for visiting my profile.
 - 🔭 I'm Currently Working on [Capgemini Engineering](https://www.capgemini.com)
 - 👯 I'm looking to collaborate on a lib project (coming soon . . .)
 - 📚 I'm Studying TypeScript, Node.js, Java, React, React Native, Kafka, AWS, DevOps and Kotlin ...
+- 🖇️ Visit my profile on [LinkTree](https://linktr.ee/bolic_)!
 - 📫 Let's get social on [Discord](https://discordapp.com/users/analuciabolico#7783)!
 - 🖇️ Also visit my [Linkedin](https://www.linkedin.com/in/analuciabolico)!
 - ⚡ Fun fact! I love cold coffee ☕
@@ -28,7 +29,8 @@ Thank you for visiting my profile.
 <table>
   <tr>
     <th align="center">
-      <h4>Metrics</h4>
+      <h4>Stats</h4>
+      <h4>Languages</h4>
     </th>
   </tr>
   <tr>
