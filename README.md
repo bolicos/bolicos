@@ -53,4 +53,4 @@ Thank you for visiting my profile.
 
 ---
 
- <img src="https://raw.githubusercontent.com/analuciabolico/analuciabolico/7f31350bc7732d1efdbeb9f7a935783c9848f6d4/github-metrics.svg">
+ <img alt="My overall GitHub metrics" src="./github-metrics.svg">
