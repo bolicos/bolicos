@@ -16,7 +16,7 @@ Thank you for visiting my profile.
 
 ---
 
-- 🔭 I'm Currently Working on [Capgemini Engineering](https://www.capgemini.com)
+- 🔭 I'm Currently Working on [Capgemini Engineering](https://www.capgemini.com/pt-en/about-us/who-we-are/our-brands/capgemini-engineering)
 - 👯 I'm looking to collaborate on a lib project (coming soon . . .)
 - 📚 I'm Studying TypeScript, Node.js, Java, React, React Native, Flutter, and Python ...
 - 🖇️ Visit my profile on [LinkTree](https://linktr.ee/bolic_)!
