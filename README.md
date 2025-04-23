@@ -1,7 +1,7 @@
 <div align="center" justify="center">
  
 <h1>Bolicos</h1>
-<h3> [  <em>Software Engineer</em>  ] </h3>
+<h3> [  <em>Technical Senior Specialist</em>  ] </h3>
 
 </div>
 
